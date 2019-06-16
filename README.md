@@ -1,3 +1,5 @@
 # populus
 
-[![Watch the demo](https://i.imgur.com/vKb2F1B.png)](populusdemo.mp4)
+## Watch the demo: populusdemo.mp4
+
+## Limk do APP ID: https://github.com/aKANJx/Populus
